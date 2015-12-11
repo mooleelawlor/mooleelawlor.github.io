@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mooleelawlor.github.io
+title: molly lawlor
+email: mooleelawlor@gmail.com
+author: molly lawlor
+description: My awesome new site
+paginate: 1
+google_analytics: 
